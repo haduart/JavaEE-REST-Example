@@ -1,4 +1,7 @@
 # REST API Example with Wildfly
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[1]: https://twitter.com/flycouchdb
+[2]: https://twitter.com/haduart
 
 ## Usage
 
